@@ -1,0 +1,7 @@
+# IDE / Editor configs
+.idea/
+.vscode/
+.lightning_studio/
+.cursor-server
+.vscode-server
+.windsurf-server
